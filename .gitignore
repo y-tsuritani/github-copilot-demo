@@ -1,0 +1,8 @@
+# python
+.venv
+__pycache__/
+.pytest_cache/
+
+# poetry
+poetry.lock
+pyproject.toml
