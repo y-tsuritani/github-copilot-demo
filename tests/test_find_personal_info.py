@@ -1,6 +1,6 @@
 import pytest
 
-from myapp.find_personal_info import (
+from app.find_personal_info import (
     find_addresses,
     find_emails,
     find_names,

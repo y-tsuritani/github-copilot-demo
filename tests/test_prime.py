@@ -1,4 +1,4 @@
-from myapp.prime import is_prime
+from app.prime import is_prime
 
 
 def test_is_prime():
